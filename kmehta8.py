@@ -1,3 +1,6 @@
+# Krish Mehta
+# Lab 8
+
 import random
 
 number = random.randint(0, 9)
